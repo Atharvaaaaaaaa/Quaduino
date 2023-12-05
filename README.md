@@ -99,6 +99,8 @@ This can be tackled by using a higher capacity battery and high quality motors w
 
 - [Chirag Patil](https://github.com/cp2392)
 - [Yash Deshpande](https://github.com/yashLM705)
+- [Atharva Bendre]
+- [Shreyas Bhatlawande]
 
 ## Acknowledgements and Resources
 
