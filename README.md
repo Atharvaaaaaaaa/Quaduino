@@ -1,3 +1,8 @@
+**Course Name: Electronics in Service to Society (R4EC30116L)**
+
+**Date: January-May 2023**
+
+
 # Quaduino
 
 Quaduino is a self-levelling Arduino Uno based quadcopter drone.
