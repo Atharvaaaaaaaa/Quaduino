@@ -107,3 +107,4 @@ This can be tackled by using a higher capacity battery and high quality motors w
 - [Joop Brokking’s YMFC-3D](http://www.brokking.net/ymfc-al_main.html)
 - [Joop Brokking’s Video Tutorials](https://www.youtube.com/watch?v=XFxqFQwRumc&list=PL0K4VDicBzsibZqfa42DVxC8CGCMB7G2G&pp=iAQB)
 - [Swapnil Nimbalkar’s Arduino Drone](https://www.youtube.com/watch?v=zLdw0reI86o)
+- [Instructables link to interface OV7670 Arduino Camera Sensor Module with the Arduino](https://www.instructables.com/OV7670-Arduino-Camera-Sensor-Module-Framecapture-T/)
