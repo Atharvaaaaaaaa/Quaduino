@@ -1,4 +1,4 @@
-**Course Name: Electronics in Service to Society (R4EC30116L)**
+**Course Name: Electronics in Service to Society (R4EC3016L)**
 
 **Date: January-May 2023**
 
