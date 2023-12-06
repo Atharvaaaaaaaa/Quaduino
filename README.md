@@ -66,13 +66,14 @@ We start with assembling the drone starting with the frame. The first step is to
 The Arduino on the drone requires three codes to be flashed onto it:
 - Setup: where we initialize the Arduino Uno for the quadcopter code and set up and calibrate the MPU 6050 sensor
 - ESC Calibration: This is the most important step as it makes sure the motors are spinning in accordance with each other, and finally
-- Flight Controller: This program loads the actual flight control data onto the Arduino and after this step, the drone is ready to fly. 
+- Flight Controller: This program loads the actual flight control data onto the Arduino and after this step, the drone is ready to fly.
+- For setting up the camera module. Follow [this](https://www.instructables.com/OV7670-Arduino-Camera-Sensor-Module-Framecapture-T/) step-by-step tutorial
 
 ### How does a drone work?
 
 ![MotorDirection](https://github.com/cp2392/Quaduino/assets/88549231/5385e541-00bf-436e-8969-089a9d839d76)
 
-Quadcopters make use of 4 Motors. Two of these motor spin clockwise while the other two spin counterclockwise. Motors on the same axis spin in the same direction, as illustrated here. It uses the basic principle of Newton’s Third Law of motion by pushing the air opposite to the direction of desired motion and moving around.
+Quadcopters make use of 4 Motors. Two of these motor spin clockwise while the other two spin counterclockwise. Motors on the same axis spin in the same direction, as illustrated here. It uses the basic principle of Newton’s Third Law of motion by pushing the air opposite to the direction of desired motion and moving around. The onboard camera module provides live footage that can be accessed in real time.
 
 ![BuildPhoto1](https://github.com/cp2392/Quaduino/assets/88549231/728d1f92-f8b7-4bda-95c7-241bae49a82d)    ![BuildPhoto2](https://github.com/cp2392/Quaduino/assets/88549231/26dbbf59-c4b6-4978-8667-18de24c5a44d)
 
